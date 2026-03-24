@@ -1,1 +1,1 @@
-Piccolo progetto di classifcazione dei dati per unical,data mining
+Piccolo progetto di classificazione dei dati per UNICAL,data mining
