@@ -1,1 +1,1 @@
-Progetto di classificazione dei dati per UNICAL
+Progetto di machine learing per UNICAL
